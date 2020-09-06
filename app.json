@@ -1,0 +1,12 @@
+{
+  "name": "imgRecognition",
+  "displayName": "imgRecognition",
+  "expo": {
+    "name": "imgRecognition",
+    "slug": "imgRecognition",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
